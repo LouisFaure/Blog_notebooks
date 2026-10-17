@@ -19,3 +19,8 @@ date = 2024-03-29
 notebook = "negative_binomial/negative_binomial.ipynb"
 slug = "nb"
 date = 2025-06-01
+
+[[post]]
+notebook = "gradLines/grad_vs_EM.ipynb"
+slug = "grad_vs_EM"
+date = 2024-05-27
