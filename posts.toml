@@ -9,6 +9,7 @@
 #   slug      post folder / URL: louis.faure.dev/post/<slug>/
 #   date      publication date
 #   math      optional, render LaTeX math (default true)
+#   badge     optional, show the "Jupyter" badge linking to the notebook under the title (default true)
 
 [[post]]
 notebook = "efficient_code_python/Efficient_code_python.ipynb"
@@ -19,6 +20,7 @@ date = 2024-03-29
 notebook = "negative_binomial/negative_binomial.ipynb"
 slug = "nb"
 date = 2025-06-01
+badge = false
 
 [[post]]
 notebook = "gradLines/grad_vs_EM.ipynb"
