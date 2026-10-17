@@ -14,3 +14,8 @@
 notebook = "efficient_code_python/Efficient_code_python.ipynb"
 slug = "efficient_code_python"
 date = 2024-03-29
+
+[[post]]
+notebook = "negative_binomial/negative_binomial.ipynb"
+slug = "nb"
+date = 2025-06-01
