@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+# Local datasets used by the notebooks (too large for git)
+data/
